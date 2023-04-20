@@ -74,7 +74,7 @@ Models used for predicting popularity using lyrics :
 5. https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
 ## Contributors
-  1. Ananya Agarwal - Data extraction, Data cleaning and EDA @+AnanyaAg17
+  1. Ananya Agarwal - Data extraction, Data cleaning and EDA @MoBanerjee
   2. Mohor Banerjee - Models for Statistical Data
   3. Shrivardhan Goenka - Models on Lyrics Data
 
