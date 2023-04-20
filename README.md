@@ -1,4 +1,4 @@
-# SC1015 Mini-Project- What influences Song Popularity more - Lyrics or Other Statistical Features like tempo, loudness, etc?
+# <u>What influences Song Popularity more - Lyrics or Other Statistical Features like tempo, loudness, etc?</u>
 ## About
 While composing songs, artists need to focus on several parameters like- lyrics, tempo, duration,danceability, etc. to name a few. Often, the artists are confused about which feature of the song they should focus more on. Additionally, despite the hardwork, many songs fail to gain sufficient popularity among the audience.Keeping this problem in mind, the goal of our SC1015 Mini-project is to find out which parameters of a song influence its popularity more- its lyrics or its other statistical features like tempo, danceability, etc. Analysing this influence using data science can assist artists in focusing more on relevant features and thus, in releasing more chartbuster songs.
 
@@ -74,6 +74,7 @@ Models used for predicting popularity using lyrics :
 5. https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 
 ## Contributors
+* 
 
 
 
