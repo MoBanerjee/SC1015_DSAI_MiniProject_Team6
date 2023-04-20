@@ -76,7 +76,7 @@ Models used for predicting popularity using lyrics :
 ## Contributors
   1. Ananya Agarwal - Data extraction, Data cleaning and EDA 
   2. Mohor Banerjee - Models for Statistical Data
-  3. Shrivardhan Goenka - Models on Lyrics Data
+  3. Shrivardhan Goenka - Models for Lyrics Data
 
 
 
