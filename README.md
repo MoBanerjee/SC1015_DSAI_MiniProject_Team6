@@ -23,11 +23,6 @@ For detailed walkthrough, please view the source code in order from:
   7. LSTM Network
   8. Linear Regression (For Lyrics Data)
 
-## Dataset Used
-We extracted these two datasets from Kaggle.
-  1. Dataset for statistical features like tempo, key, etc-: [Click Here](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets/code?select=tracks.csv)
-  2. Dataset for lyrics data-: [Click Here](https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres?select=lyrics-data.csv)
-
 ## Problem Definition
 What predicts Song Popularity better - Lyrics or Other Statistical Features like tempo, loudness, etc?
 
@@ -35,6 +30,11 @@ Features Analysed-:
  1. Numerical: tempo, danceability, loudness etc.
  2. Categorical: explicit (true/false)
  3. Lyrics: language
+
+## Datasets Used
+We extracted these two datasets from Kaggle.
+  1. Dataset for statistical features like tempo, key, etc-: [Click Here](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets/code?select=tracks.csv)
+  2. Dataset for lyrics data-: [Click Here](https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres?select=lyrics-data.csv)
 
 ## Models Used
 Models used for predicting popularity using features like tempo, key, loudness, etc :
@@ -47,7 +47,7 @@ Models used for predicting popularity using lyrics :
   2. Linear Regression
 
 ## Conclusion
-  1. We obtained the best results with neural networks.It yielded a Mean Squared Error of only 0.026 which is lesser than that given by both the baseline        models(Random Forest and Linear Regression) used for statistical data.
+  1. For statistical data, we obtained the best results with neural networks.It yielded a Mean Squared Error of only 0.026 which is lesser than that given      by both the baseline models(Random Forest and Linear Regression).
   
   2. Random Forest model yielded an MSE of 15.53. It fared better than regression but fell short of the accuracy given by neural networks.
   
