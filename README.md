@@ -62,7 +62,7 @@ Models used for predicting popularity using lyrics :
  ## Future Improvements
 Our current model has some limitations which can be improved in the future. Some of them are-:
 
-* Limited data: Increasing the size of our dataset or incorporating data from different sources will improve our model's accuracy.
+* Limited input features: Although we have included several features, there may be some additional song features that could impact song popularity but are not included in our current model. We can try finding and adding more relevant features to our datasets to improve prediction accuracy.
 
 * Lack of temporal data: Song popularity is not a static feature and can change over time. We can consider incorporating temporal data, such as streaming counts, charts positions, and reviews, to improve our model's accuracy.
 
