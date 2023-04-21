@@ -15,13 +15,13 @@ Presentation Video-: [Click Here](https://youtu.be/8SpMJKR04Vw)
 For detailed walkthrough, please view the source code in order from:
 
   1. [Data Extraction and Cleaning](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/Data%20Extraction%20%26%20Cleaning-4.ipynb)
-  2. Data Visualisation and EDA
-  3. Train-Test Split
-  4. Sequential Neural Network
-  5. Random Forest
-  6. Linear Regression (For Statistical Data)
-  7. LSTM Network
-  8. Linear Regression (For Lyrics Data)
+  2. [Data Visualisation and EDA](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/Exploratory%20Data%20Analysis-3-4%20(1).ipynb)
+  3. [Train-Test Split](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/Train-Test-Split-2%20(1).ipynb)
+  4. [Sequential Neural Network](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/Neural%20Networks.ipynb)
+  5. [Random Forest](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/randomForest.ipynb)
+  6. [Linear Regression (For Statistical Data)](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/Regression-2%20(1).ipynb)
+  7. [LSTM Network](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/NLP-LSTM.ipynb)
+  8. [Linear Regression (For Lyrics Data)](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/NLP-baseline.ipynb)
 
 ## Problem Definition
 What predicts Song Popularity better - Lyrics or Other Statistical Features like tempo, loudness, etc?
