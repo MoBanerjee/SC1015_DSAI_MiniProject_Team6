@@ -11,6 +11,7 @@ To achieve this goal, we followed the following steps-:
 
 ## Presentation
 Presentation Video-: [Click Here](https://youtu.be/8SpMJKR04Vw)
+
 Presentation Slides-: [Click Here](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/SC1015%20Mini_Project%20Slides.pdf)
 
 For detailed walkthrough, please view the source code in order from:
