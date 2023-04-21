@@ -58,6 +58,20 @@ Models used for predicting popularity using lyrics :
   4. For lyrics data, we obtained the best results with LSTM.It yielded a Mean Squared Error of only 0.045 which is lesser than that given by the baseline      model(Linear Regression) used.
   
   5. Since the mean squared error of statistical data(0.026) is lesser than that of lyrics data(0.045), hence we conclude that the statistical features          like liveness, tempo, danceability, etc are better predictors of the popularity of a song than its lyrics. Thus, our inference would be that artists        should focus more on these statistical features than on lyrics in order to compose more chartbuster songs.
+ 
+ ## Future Improvements
+Our current model has some limitations which can be improved in the future. Some of them are-:
+
+* Limited data: Increasing the size of our dataset or incorporating data from different sources will improve our model's accuracy.
+
+* Lack of temporal data: Song popularity is not a static feature and can change over time. We can consider incorporating temporal data, such as streaming counts, charts positions, and reviews, to improve our model's accuracy.
+
+* Fine-tune pre-trained models: We can try fine-tuning pre-trained models, such as GPT-3, or ResNet, on our dataset to see if they can improve our model's accuracy.
+
+* Ensemble learning: We can combine multiple models into an ensemble to improve our model's accuracy instead of depending on a single model.
+
+* Incorporate domain knowledge: We can try incorporating domain knowledge, such as music theory, industry trends, or expert opinions, into our model to improve its accuracy.
+ 
   
 ## Takeaways
 * Data Pre-processing (Text Processing for Natural Language Processing)
