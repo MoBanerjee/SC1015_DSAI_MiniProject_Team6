@@ -14,7 +14,7 @@ Presentation Video-: [Click Here](https://youtu.be/8SpMJKR04Vw)
 
 For detailed walkthrough, please view the source code in order from:
 
-  1. Data Extraction and Cleaning
+  1. [Data Extraction and Cleaning](https://github.com/MoBanerjee/SC1015_DSAI_MiniProject_Team6/blob/main/Data%20Extraction%20%26%20Cleaning-4.ipynb)
   2. Data Visualisation and EDA
   3. Train-Test Split
   4. Sequential Neural Network
