@@ -37,6 +37,15 @@ Features Analysed-:
 We extracted these two datasets from Kaggle.
   1. Dataset for statistical features like tempo, key, etc-: [Click Here](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets/code?select=tracks.csv)
   2. Dataset for lyrics data-: [Click Here](https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres?select=lyrics-data.csv)
+  
+  The dataset used was combined from these 2 datasets. In order to maintain uniformity, we merged the two datasets and found the common songs between the 2 datasets and only used those. 
+ 
+## Data Extraction and Cleaning: 
+These were the steps taken to perform data extraction and cleaning: 
+  1. Merged the 2 datasets based on the common songs. All songs which were not common were dropped. 
+  2. Dropped all duplicate values
+  3. Dropped all null values
+  4. Performed min-max normalisation. 
 
 ## Models Used
 Models used for predicting popularity using features like tempo, key, loudness, etc :
